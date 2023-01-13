@@ -1,0 +1,8 @@
+__pycache__/
+cp_hifigan/
+data/
+generated_files/
+male_south.zip
+processed_wavs_22050_norm/
+test_files/
+training_log*
