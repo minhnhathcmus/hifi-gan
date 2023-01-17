@@ -6,3 +6,5 @@ male_south.zip
 processed_wavs_22050_norm/
 test_files/
 training_log*
+processed_wavs/
+processed_wavs_male_north.zip

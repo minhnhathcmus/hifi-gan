@@ -1,7 +1,7 @@
 import os
 import random
 
-data_path = 'processed_wavs_22050_norm'
+data_path = 'processed_wavs'
 
 filename_list = os.listdir(data_path)
 filename_list = list(map(lambda x: x.replace('.wav', ''), filename_list))
